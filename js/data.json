@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Prethivi",
+    "img": "img/1.jpg",
+    "company":"SMP",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+  },
+  {
+    "name": "Ram",
+    "img": "img/2.jpg",
+    "company":"IBM",
+    "desc": "Working fine just a sample data for angular Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+  },
+  {
+    "name": "Raul",
+    "img": "img/3.jpg",
+    "company":"CTS",
+    "desc": "Working fine just a sample data for angular Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+  },
+  {
+    "name": "Jaya Dev",
+    "img": "img/4.jpg",
+    "company":"SAP",
+    "desc": "Working fine just a sample data for angular Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+  },
+  {
+    "name": "Surya",
+    "img": "img/5.jpg",
+    "company":"TCS",
+    "desc": "Working fine just a sample data for angular Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+  },
+  {
+    "name": "Hari",
+    "img": "img/6.jpg",
+    "company":"TCS",
+    "desc": "Working fine just a sample data for angular Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+  },
+  {
+    "name": "Paul",
+    "img": "img/7.jpg",
+    "company":"Igate",
+    "desc": "Working fine just a sample data for angular Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+  },
+  {
+    "name": "Rokesh",
+    "img": "img/8.jpg",
+    "company":"HCL",
+    "desc": "Working fine just a sample data for angular Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+  },
+  {
+    "name": "Yamu",
+    "img": "img/9.jpg",
+    "company":"HP",
+    "desc": "Working fine just a sample data for angular Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+  },
+  {
+    "name": "Cindralla",
+    "img": "img/10.jpg",
+    "company":"SMP",
+    "desc": "Working fine just a sample data for angular Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+  },
+  {
+    "name": "Ashok",
+    "img": "img/11.jpg",
+    "company":"XYLO",
+    "desc": "Working fine just a sample data for angular Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+  },
+  {
+    "name": "Balu",
+    "img": "img/12.jpg",
+    "company":"SAP",
+    "desc": "Working fine just a sample data for angular Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+  },
+  {
+    "name": "Madona",
+    "img": "img/13.jpg",
+    "company":"Infy",
+    "desc": "Working fine just a sample data for angular Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+  }
+]

@@ -1,0 +1,12 @@
+<section>
+	<div class="detail-container col-md-6 col-md-offset-3" ng-model="artists">
+	<a href="#/details/{{prevItem}}" class="btn btn-left">&lt;</a>
+	<a href="#/details/{{nextItem}}" class="btn btn-right">&gt;</a>
+
+		<h2>{{artists[whichItem].name}}</h2>
+		<h4>{{artists[whichItem].company}}</h4>
+		<img ng-src="{{artists[whichItem].img}}">
+		<p>{{artists[whichItem].desc}}</p>
+		<a href="#list">Back To Results</a>
+	</div>
+</section>
